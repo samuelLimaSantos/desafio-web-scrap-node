@@ -1,0 +1,25 @@
+{
+  "name": "desafio-web-scrap-node",
+  "version": "1.0.0",
+  "description": "Repositório para armazenar o desafio de web scrap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelLimaSantos/desafio-web-scrap-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelLimaSantos/desafio-web-scrap-node/issues"
+  },
+  "homepage": "https://github.com/samuelLimaSantos/desafio-web-scrap-node#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
