@@ -7,7 +7,6 @@ const api = axios.create({
   baseURL: 'https://g1.globo.com/'
 });
 
-
 const scrapPage = async () => {
   const { data: html } = await api.get();
 
