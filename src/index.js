@@ -14,7 +14,7 @@ const scrapPage = async () => {
 
   const listElement = $('.bastian-page > div > div', html);
 
-  const jsonObject = [];
+  const news = [];
 
   listElement.each((_, element) => {
     const title = $(element).find('.feed-post-body-title .feed-post-link').text();
@@ -24,7 +24,7 @@ const scrapPage = async () => {
 
     const relatedNews = [];
 
-    $(element).find('.bstn-relateditems > li').each((index, element) => {
+    $(element).find('.bstn-relateditems > li').each((_, element) => {
       const title = $(element).find('a').text();
       const link = $(element).find('a').attr('href');
 
@@ -34,7 +34,7 @@ const scrapPage = async () => {
       });
     });
 
-    jsonObject.push({
+    news.push({
       title,
       newsUrl,
       subtitle,
@@ -43,7 +43,7 @@ const scrapPage = async () => {
     });
   });
 
-  writeJsonFile(jsonObject);
+  writeJsonFile(news);
 }
 
 const writeJsonFile = async (dataApi) => {
