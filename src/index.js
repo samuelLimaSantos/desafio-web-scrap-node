@@ -25,7 +25,7 @@ const scrapPage = async () => {
     const relatedNews = [];
 
     $(element).find('.bstn-relateditems > li').each((index, element) => {
-      const title = $(element).text();
+      const title = $(element).find('a').text();
       const link = $(element).find('a').attr('href');
 
       relatedNews.push({
