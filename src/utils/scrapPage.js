@@ -1,13 +1,11 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
-const { join } = require('path');
-const { writeFile } = require('fs/promises');
 
 const api = axios.create({
   baseURL: 'https://g1.globo.com/'
 });
 
-const scrapPage = async () => {
+const scrapPage = async (throwData) => {
   const { data: html } = await api.get();
 
   const $ = cheerio.load(html);
@@ -43,13 +41,7 @@ const scrapPage = async () => {
     });
   });
 
-  writeJsonFile(news);
+  await throwData(news);
 }
 
-const writeJsonFile = async (dataApi) => {
-  const path = join(__dirname, '..', 'temp', `news.json`);
-
-  await writeFile(path, JSON.stringify(dataApi, null, 2));
-}
-
-scrapPage();
+module.exports = { scrapPage };

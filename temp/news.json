@@ -1,115 +1,109 @@
 [
   {
-    "title": "GLOBONEWS: assista às últimas notícias sobre a guerra na Ucrânia",
-    "newsUrl": "https://g1.globo.com/globonews/ao-vivo/globonews-ao-vivo.ghtml",
+    "title": "VÍDEO: satélite mostra antes e depois de bombardeio a Mariupol",
+    "newsUrl": "https://g1.globo.com/mundo/video/imagens-de-satelite-mostram-antes-e-depois-de-bombardeios-na-cidade-ucraniana-de-mariupol-10373194.ghtml",
     "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/7mcjGUrlSCUTiF6cizMzKJvX6rY=/0x0:1280x720/540x304/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/Q/GakiwATbGyrMk3Lm00pA/pgm-globonews-limpo-ao-vivo-20220224-1959-frame-41853.jpeg",
+    "imageUrl": "https://s2.glbimg.com/duOea9LKwPEtpC_VOm9vRPIqj7k=/0x0:720x405/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/bawKnju1ykXy6uSNknZ4ZC9-SZc=/720x0/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/94/31/10373194",
     "relatedNews": [
       {
-        "title": "Rússia inicia guerra pela terra, pelo ar e pelo mar",
-        "link": "https://g1.globo.com/mundo/noticia/2022/02/24/putin-autoriza-operacao-especial-no-leste-da-ucrania.ghtml"
-      },
-      {
-        "title": "Entenda o que é a lei Marcial e por que foi decretada",
-        "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/02/24/lei-marcial-entenda-porque-medida-foi-decretada-por-presidente-da-ucrania-apos-ataques-da-russia.ghtml"
+        "title": "Moradores são retirados dos subúrbios de Kiev em meio a ataques",
+        "link": "https://g1.globo.com/mundo/ao-vivo/guerra-ucrania-russia-putin-invasao.ghtml?postId=1f4590a3-14b9-4466-9919-0aa8ac4821a1"
       }
     ]
   },
   {
-    "title": "MAPAS: invasão russa ocorre em 3 frentes simultâneas",
-    "newsUrl": "https://g1.globo.com/mundo/noticia/2022/02/21/mapa-conflito-ucrania-russia.ghtml",
+    "title": "Mísseis e jatos: veja quais armas o Ocidente tem fornecido à Ucrânia",
+    "newsUrl": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/03/09/veja-quais-armas-o-ocidente-tem-fornecido-a-ucrania-e-como-elas-chegam-ate-o-destino.ghtml",
     "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/RXeB-zOgXUvV7iu3Hxu62daWrhM=/107x72:431x254/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/i/7YtIXwSLCa7h5aJimisw/mapa3d-rus-x-ucr.gif",
+    "imageUrl": "https://s2.glbimg.com/ux-HdD5aDjk7H1N69dNziiH1LjA=/0x136:4066x2423/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/3/VaSTZPRvKpzB7oheWfAw/2022-03-09t133919z-1162650278-rc2xys9eb2ah-rtrmadp-3-ukraine-crisis-kyiv-defence.jpg",
     "relatedNews": [
       {
-        "title": "Por que Putin resolveu invadir a Ucrânia? ENTENDA",
-        "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/24/por-que-a-russia-invadiu-a-ucrania.ghtml"
-      },
-      {
-        "title": "Onde fica a Ucrânia e por que ela é estratégica na Europa",
-        "link": "https://g1.globo.com/mundo/noticia/2022/02/24/onde-fica-a-ucrania.ghtml"
+        "title": "Usina nuclear teve sistema danificado após ataque russo",
+        "link": "https://g1.globo.com/mundo/ao-vivo/guerra-ucrania-russia-putin-invasao.ghtml?postId=b0283a92-930d-4fe9-a8fa-a8a313cb975c"
       }
     ]
   },
   {
-    "title": "Bolsonaro desautoriza Mourão e não condena invasão russa",
-    "newsUrl": "https://g1.globo.com/politica/noticia/2022/02/24/bolsonaro-desautoriza-mourao-por-declaracao-sobre-ucrania-mas-nao-condena-invasao-russa.ghtml",
-    "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/F5ccctb6Mc9u3k7THAxkyz911ww=/91x0:1433x755/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/N/28LlLJQRAdl3dKC98Egw/bolsonaro-live.jpg",
+    "title": "Média móvel de mortes por Covid fica acima de 500 após 6 dias",
+    "newsUrl": "https://g1.globo.com/saude/coronavirus/noticia/2022/03/09/brasil-tem-652-mortes-por-covid-19-em-24-horas-media-movel-volta-a-ficar-acima-de-500-apos-6-dias.ghtml",
+    "subtitle": "Números da pandemia",
+    "relatedNews": [
+      {
+        "title": "Mais de 156,4 milhões estão totalmente imunizados contra a doença",
+        "link": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/03/09/vacinacao-contra-a-covid-mais-de-1564-milhoes-estao-totalmente-imunizados.ghtml"
+      }
+    ]
+  },
+  {
+    "title": "Bovespa fecha em alta de 2,43%; dólar cai a R$ 5,01",
+    "newsUrl": "https://g1.globo.com/economia/noticia/2022/03/09/bovespa.ghtml",
+    "subtitle": "Mercado financeiro",
+    "relatedNews": [
+      {
+        "title": "Barril de petróleo despenca e fecha a US$ 111",
+        "link": "https://g1.globo.com/economia/noticia/2022/03/09/bolsas-asiaticas-fecham-em-baixa-mercado-europeu-abre-em-alta.ghtml"
+      }
+    ]
+  },
+  {
+    "title": "Mega-Sena pode pagar R$ 109 milhões; veja dezenas sorteadas",
+    "newsUrl": "https://g1.globo.com/loterias/noticia/2022/03/09/mega-sena-concurso-2461-resultado.ghtml",
+    "subtitle": "Loterias",
+    "imageUrl": "https://s2.glbimg.com/UIHe-Y60wWXkxMv_gQFX4eY3iKs=/0x0:1600x900/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/H/i/BjMFSLTd68zGX2TBtUag/volantes-loterias-q98a7776-credito-marcelo-brandt-g1.jpg",
     "relatedNews": []
   },
   {
-    "title": "Governo não tem plano para resgatar brasileiros, diz embaixador",
-    "newsUrl": "https://g1.globo.com/politica/noticia/2022/02/24/itamaraty-diz-que-nao-possui-plano-de-resgate-para-brasileiros-na-ucrania.ghtml",
-    "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/9HP8YNrV4oiZAorGiKuhJ8vuO1o=/0x0:976x549/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/d/jKNtV9R7ScmgVxVPjUpw/bbc-1.jpg",
+    "title": "Caetano canta 'Terra' em ato contra projetos que ameaçam o meio ambiente",
+    "newsUrl": "https://g1.globo.com/df/distrito-federal/noticia/2022/03/09/caetano-canta-terra-e-diz-em-brasilia-espero-realmente-que-haja-alguma-consequencia-a-partir-da-nossa-movimentacao.ghtml",
+    "subtitle": "Protesto em Brasília",
+    "imageUrl": "https://s2.glbimg.com/nCD1VUzQoxahPNIIxtdnYV-MYnw=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/NZIxiOCO0yrBqZJwH9bC_304-fc=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/10373366.jpg",
     "relatedNews": [
       {
-        "title": "JULIA DUAILIBI: Brasil espera resolução dos EUA para se posicionar na ONU",
-        "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/02/24/brasil-aguarda-resolucao-dos-eua-para-se-posicionar-no-conselho-de-seguranca-da-onu.ghtml"
+        "title": "41 artistas vão ao Congresso e participam de 'Ato pela terra'",
+        "link": "https://g1.globo.com/politica/noticia/2022/03/09/artistas-vao-ao-congresso-e-ao-stf-contra-projetos-que-afrouxam-leis-ambientas.ghtml"
       },
       {
-        "title": "NATUZA NERY: Brasil vive seu pior momento na diplomacia",
-        "link": "https://g1.globo.com/politica/blog/natuza-nery/post/2022/02/24/postura-timida-de-carlos-franca-joga-diplomacia-brasileira-em-seu-pior-momento.ghtml"
+        "title": "Saiba o que dizem os projetos que geraram a manifestação",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/03/09/protesto-de-artistas-em-brasilia-saiba-o-que-dizem-os-projetos-de-lei-que-motivam-o-ato-pela-terra.ghtml"
+      }
+    ]
+  },
+  {
+    "title": "Lira anuncia grupo de trabalho para discutir proposta que libera garimpo",
+    "newsUrl": "https://g1.globo.com/politica/noticia/2022/03/09/lira-anuncia-criacao-de-grupo-de-trabalho-para-discutir-projeto-que-libera-garimpo-em-terras-indigenas.ghtml",
+    "subtitle": "",
+    "imageUrl": "https://s2.glbimg.com/59RQIMUJr4wHhVNJmD2FC47H66U=/0x0:562x316/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/f/v/41hjtCTzWJdOS0wPXV0g/arthur-lira.jpg",
+    "relatedNews": [
+      {
+        "title": "Entenda o projeto do governo que prevê autorizar exploração em terras indígenas",
+        "link": "https://g1.globo.com/politica/noticia/2022/03/09/saiba-o-que-preve-o-projeto-do-governo-de-autorizacao-de-garimpo-em-terra-indigena.ghtml"
+      }
+    ]
+  },
+  {
+    "title": "Senado adia pela 3ª vez votação para frear alta dos combustíveis",
+    "newsUrl": "https://g1.globo.com/politica/noticia/2022/03/09/senado-adia-pela-terceira-vez-votacao-de-projetos-para-frear-alta-de-precos-dos-combustiveis.ghtml",
+    "subtitle": "Preços na alturas",
+    "relatedNews": [
+      {
+        "title": "ANA FLOR: falta de reajuste da Petrobras pode afetar fornecimento de diesel",
+        "link": "https://g1.globo.com/economia/blog/ana-flor/post/2022/03/09/diferenca-entre-preco-local-e-internacional-do-petroleo-faz-distribuidora-apertar-o-cinto-na-entrega-de-diesel.ghtml"
+      }
+    ]
+  },
+  {
+    "title": "PSB anuncia que ficará fora de federação com PT, PCdoB e PV",
+    "newsUrl": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/09/psb-anuncia-que-ficara-fora-de-federacao-com-pt-pcdob-e-pv.ghtml",
+    "subtitle": "Eleições 2022",
+    "relatedNews": [
+      {
+        "title": "NATUZA NERY: União Brasil anuncia na TV que terá candidato a presidente",
+        "link": "https://g1.globo.com/politica/blog/natuza-nery/post/2022/03/09/em-comercial-de-tv-uniao-brasil-informa-que-tera-candidato-a-presidente.ghtml"
       },
       {
-        "title": "CAMAROTTI: Congresso pressiona governo a 'sair do muro'",
-        "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/02/24/congresso-pressiona-itamaraty-e-planalto-a-sair-do-muro-e-ter-posicao-clara-de-condenacao-da-russia.ghtml"
+        "title": "PSOL faz primeira reunião com o PT para tratar de apoio a Lula",
+        "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/03/09/em-reuniao-psol-apresenta-ao-pt-termos-para-apoio-a-candidatura-de-lula.ghtml"
       }
     ]
-  },
-  {
-    "title": "Biden anuncia sanções e diz que Putin quer nova União Soviética",
-    "newsUrl": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/02/24/putin-esta-planejando-isso-ha-meses-diz-biden-em-novo-pronunciamento-sobre-o-conflito-na-ucrania.ghtml",
-    "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/V6ogQj2qfUtoIQNEvsEFi6YsSZA=/635x145:4163x2130/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/K/m/VEozEBRFWVtYqXTtTgXw/ap22055677384624.jpg",
-    "relatedNews": []
-  },
-  {
-    "title": "Rússia pode ser excluída da rede de pagamentos Swift; entenda o que é",
-    "newsUrl": "https://g1.globo.com/mundo/noticia/2022/02/24/russia-pode-sofrer-sancao-e-ser-excluida-de-rede-global-de-pagamentos-entenda-o-que-e-swift.ghtml",
-    "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/m2uRJo2htm05SYYDmENUnoy6qj8=/356x14:1589x708/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/K/w/hUaKEDRJS02RfCgF4c6g/000-1ty4hz.jpg",
-    "relatedNews": [
-      {
-        "title": "Entenda quais são as novas sanções anunciadas por Biden ",
-        "link": "https://g1.globo.com/mundo/noticia/2022/02/24/veja-quais-sao-as-novas-sancoes-anunciadas-por-biden-contra-a-russia.ghtml"
-      }
-    ]
-  },
-  {
-    "title": "VÍDEO: a ‘guerra de palavras’ entre Putin e Biden antes da invasão",
-    "newsUrl": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-18/video/guerra-de-palavras-putin-e-biden-travaram-confronto-por-meses-relembre-10334278.ghtml",
-    "subtitle": "",
-    "imageUrl": "https://s2.glbimg.com/O5eSXYMPEVih2PQ_-7pZ-1L1OWU=/0x0:720x405/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/ViWsvtKOFiU3OcZl8ggBMd9xR_w=/720x0/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/78/42/10334278",
-    "relatedNews": [
-      {
-        "title": "🎧 O ASSUNTO: todos os episódios sobre o conflito da Ucrânia",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/02/24/guerra-na-ucrania-ouca-episodios-do-podcast-o-assunto-sobre-o-conflito.ghtml"
-      }
-    ]
-  },
-  {
-    "title": "GUGA CHACRA: ‘Sanção não vai derrubar o regime Putin’",
-    "newsUrl": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-18/video/guga-putin-nao-vai-virar-bashar-al-assad-muammar-al-kadhafi-ou-saddam-hussein-mas-e-um-paria-no-ocidente-10334235.ghtml",
-    "subtitle": "Análises",
-    "imageUrl": "https://s2.glbimg.com/Uah037qg2dhDaEW88XUS6f8xKKo=/0x0:720x405/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/9L0THzz67mNdUOFDMYN2rZ0wuJc=/720x0/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/35/42/10334235",
-    "relatedNews": [
-      {
-        "title": "Estratégia de ataques múltiplos é difícil de conter, diz professora",
-        "link": "https://g1.globo.com/globonews/conexao-globonews/video/professora-analisa-os-proximos-acontecimentos-do-conflito-entre-russia-e-ucrania-10332375.ghtml"
-      },
-      {
-        "title": "SANDRA COHEN: Putin blefou e sempre quis dominar a Ucrânia",
-        "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2022/02/24/putin-blefou-o-tempo-inteiro.ghtml"
-      }
-    ]
-  },
-  {
-    "title": "Chernobyl: o que é, onde fica e por que a região é importante",
-    "newsUrl": "https://g1.globo.com/mundo/noticia/2022/02/24/o-que-e-chernobyl-e-por-que-regiao-e-importante.ghtml",
-    "subtitle": "Mais sobre a guerra",
-    "imageUrl": "https://s2.glbimg.com/trGYADUV55MSLBgv5giyoUWhs78=/0x610:5046x3448/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Q/q/cyvBSrTGCuBmyeya6VBw/ap22055690277424.jpg",
-    "relatedNews": []
   }
 ]

@@ -1,0 +1,28 @@
+
+###
+POST http://localhost:3333/news HTTP/1.1
+content-type: application/json
+
+
+###
+POST http://localhost:3333/users/signup HTTP/1.1
+content-type: application/json
+
+{
+    "name": "primeiro user",
+    "email": "primeiroUser@email.com",
+    "password": "123456"
+}
+
+### Movies new
+POST http://localhost:3333/users/signup HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjExLCJuYW1lT2ZVc2VyIjoic2FtcGxlIiwiaWF0IjoxNjQ2Nzg0OTY5LCJleHAiOjE2NDY4MDI5Njl9.5coFbjGkYnjEKyLtC2eryaY7mfXJLueTXwJeuz-SfEw
+
+{
+    "email": "primeiroUser@email.com",
+    "password": "123456"
+}
+
+###
+GET http://localhost:3333/movies/search?categoryId=3&titleContains=missao
